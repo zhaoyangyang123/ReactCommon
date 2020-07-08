@@ -1,0 +1,6 @@
+framework module Pods_ReactCommon_Example {
+  umbrella header "Pods-ReactCommon_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

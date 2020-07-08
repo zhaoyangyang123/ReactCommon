@@ -1,0 +1,16 @@
+PODS:
+  - ReactCommon (0.1.0)
+
+DEPENDENCIES:
+  - ReactCommon (from `../`)
+
+EXTERNAL SOURCES:
+  ReactCommon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReactCommon: 8070a6ccb2efdfa736dd563e78e5afa1271dd649
+
+PODFILE CHECKSUM: a15c8aee33c74e3c6ce2763dee09f9e969b814f3
+
+COCOAPODS: 1.8.4
